@@ -1,6 +1,4 @@
-# Project Title
-
-Django social network and bot
+# Django social network and bot
 
 ## Getting Started
 
